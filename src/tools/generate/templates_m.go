@@ -12,7 +12,7 @@ var poolInterfacesTemplate = template.Must(template.New("").Parse(`
 package {{ .InterfacesPackageName }}
 
 import (
-    "github.com/hexya-erp/pool/{{ .QueryPackageName }}"
+    "github.com/unix-world/hexya-pool/{{ .QueryPackageName }}"
 	{{ range .Deps }} 	"{{ . }}"
 	{{ end }}
 )

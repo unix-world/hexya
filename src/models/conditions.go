@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/hexya-erp/hexya/src/models/operator"
+	"github.com/unix-world/hexya/src/models/operator"
 )
 
 // Expression separation symbols

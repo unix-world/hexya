@@ -12,8 +12,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/hexya-erp/hexya/src/tools/generate"
-	"github.com/hexya-erp/hexya/src/tools/strutils"
+	"github.com/unix-world/hexya/src/tools/generate"
+	"github.com/unix-world/hexya/src/tools/strutils"
 )
 
 func main() {

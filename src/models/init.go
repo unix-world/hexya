@@ -17,8 +17,8 @@ package models
 import (
 	"reflect"
 
-	"github.com/hexya-erp/hexya/src/tools/logging"
-	"github.com/hexya-erp/hexya/src/tools/strutils"
+	"github.com/unix-world/hexya/src/tools/logging"
+	"github.com/unix-world/hexya/src/tools/strutils"
 	"github.com/jmoiron/sqlx"
 )
 

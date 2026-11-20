@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/hexya-erp/hexya/src/tools/gowork"
+	"github.com/unix-world/hexya/src/tools/gowork"
 	"github.com/spf13/cobra"
 )
 
@@ -153,7 +153,7 @@ var hexyaGoTmpl = template.Must(template.New("").Parse(`
 package {{ .ModuleName }}
 
 import (
-	"github.com/hexya-erp/hexya/src/server"
+	"github.com/unix-world/hexya/src/server"
 	// blank import here this hexya module dependencies 
 )
 

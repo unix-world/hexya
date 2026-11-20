@@ -9,9 +9,9 @@ import (
 	"sync"
 
 	"github.com/beevik/etree"
-	"github.com/hexya-erp/hexya/src/i18n"
-	"github.com/hexya-erp/hexya/src/tools/hweb"
-	"github.com/hexya-erp/hexya/src/tools/xmlutils"
+	"github.com/unix-world/hexya/src/i18n"
+	"github.com/unix-world/hexya/src/tools/hweb"
+	"github.com/unix-world/hexya/src/tools/xmlutils"
 )
 
 // A Collection of templates

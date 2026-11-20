@@ -25,9 +25,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/hexya-erp/hexya/src/models/types/dates"
-	"github.com/hexya-erp/hexya/src/tools/logging"
-	"github.com/hexya-erp/hexya/src/tools/nbutils"
+	"github.com/unix-world/hexya/src/models/types/dates"
+	"github.com/unix-world/hexya/src/tools/logging"
+	"github.com/unix-world/hexya/src/tools/nbutils"
 )
 
 // RecordSet identifies a type that holds a set of records of

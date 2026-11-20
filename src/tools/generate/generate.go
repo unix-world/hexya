@@ -14,8 +14,8 @@ import (
 	"sync"
 	"text/template"
 
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/tools/strutils"
+	"github.com/unix-world/hexya/src/models"
+	"github.com/unix-world/hexya/src/tools/strutils"
 )
 
 // A fieldData describes a field in a RecordSet

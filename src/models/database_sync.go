@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hexya-erp/hexya/src/models/security"
+	"github.com/unix-world/hexya/src/models/security"
 )
 
 // SyncDatabase creates or updates database tables with the data in the model registry

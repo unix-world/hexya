@@ -20,9 +20,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/hexya-erp/hexya/src/models/fieldtype"
-	"github.com/hexya-erp/hexya/src/models/security"
-	"github.com/hexya-erp/hexya/src/models/types"
+	"github.com/unix-world/hexya/src/models/fieldtype"
+	"github.com/unix-world/hexya/src/models/security"
+	"github.com/unix-world/hexya/src/models/types"
 )
 
 // A modelCouple holds a model and one of its mixin

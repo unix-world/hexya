@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hexya-erp/hexya/src/models/types"
-	"github.com/hexya-erp/hexya/src/tools/logging"
+	"github.com/unix-world/hexya/src/models/types"
+	"github.com/unix-world/hexya/src/tools/logging"
 )
 
 // DBSerializationMaxRetries defines the number of time a

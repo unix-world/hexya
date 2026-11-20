@@ -3,7 +3,7 @@
 
 package controllers
 
-import "github.com/hexya-erp/hexya/src/server"
+import "github.com/unix-world/hexya/src/server"
 
 // Registry is the central collection of all the application controllers
 var Registry *Group

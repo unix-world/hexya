@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/hexya-erp/hexya/src/models/security"
-	"github.com/hexya-erp/hexya/src/tools/strutils"
+	"github.com/unix-world/hexya/src/models/security"
+	"github.com/unix-world/hexya/src/tools/strutils"
 )
 
 // Call calls the given method name methName on the given RecordCollection

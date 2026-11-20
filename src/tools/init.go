@@ -14,7 +14,7 @@
 
 package tools
 
-import "github.com/hexya-erp/hexya/src/tools/logging"
+import "github.com/unix-world/hexya/src/tools/logging"
 
 var log logging.Logger
 

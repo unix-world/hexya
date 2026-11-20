@@ -1,4 +1,4 @@
-module github.com/hexya-erp/hexya
+module github.com/unix-world/hexya
 
 go 1.26.10
 
@@ -11,12 +11,10 @@ require (
 	github.com/gin-contrib/sessions v1.1.4
 	github.com/gin-gonic/gin v1.12.0
 	github.com/google/uuid v1.6.0
-	github.com/hexya-erp/pool v1.0.2
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/lib/pq v1.12.3
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
-	github.com/stretchr/testify v1.12.1
 	go.uber.org/zap v1.28.0
 	golang.org/x/crypto v0.59.0
 	golang.org/x/mod v0.43.0
@@ -62,7 +60,7 @@ require (
 	github.com/ugorji/go/codec v1.3.1 // indirect
 	go.mongodb.org/mongo-driver/v2 v2.8.0 // indirect
 	go.uber.org/multierr v1.10.0 // indirect
-	go.yaml.in/yaml/v3 v3.0.5 // indirect
+	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/arch v0.29.0 // indirect
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8 // indirect
 	golang.org/x/net v0.63.0 // indirect

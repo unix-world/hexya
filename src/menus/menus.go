@@ -20,7 +20,7 @@ import (
 	"sync"
 
 	"github.com/beevik/etree"
-	"github.com/hexya-erp/hexya/src/actions"
+	"github.com/unix-world/hexya/src/actions"
 )
 
 // Registry is the menu Collection of the application

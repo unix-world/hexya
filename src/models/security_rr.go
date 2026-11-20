@@ -17,7 +17,7 @@ package models
 import (
 	"sync"
 
-	"github.com/hexya-erp/hexya/src/models/security"
+	"github.com/unix-world/hexya/src/models/security"
 )
 
 // A RecordRule allow to grant a group some permissions

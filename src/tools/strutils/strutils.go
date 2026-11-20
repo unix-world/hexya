@@ -22,7 +22,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/hexya-erp/hexya/src/tools/logging"
+	"github.com/unix-world/hexya/src/tools/logging"
 	"golang.org/x/text/transform"
 	"golang.org/x/text/unicode/norm"
 )

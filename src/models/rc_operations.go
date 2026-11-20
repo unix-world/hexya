@@ -7,7 +7,7 @@ import (
 	"slices"
 	"sort"
 
-	"github.com/hexya-erp/hexya/src/tools/typesutils"
+	"github.com/unix-world/hexya/src/tools/typesutils"
 )
 
 // Union returns a new RecordCollection that is the union of this RecordCollection

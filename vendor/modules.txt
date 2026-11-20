@@ -141,11 +141,6 @@ github.com/gorilla/securecookie
 # github.com/gorilla/sessions v1.4.0
 ## explicit; go 1.23
 github.com/gorilla/sessions
-# github.com/hexya-erp/pool v1.0.2
-## explicit; go 1.13
-github.com/hexya-erp/pool/h
-github.com/hexya-erp/pool/m
-github.com/hexya-erp/pool/q
 # github.com/inconshreveable/mousetrap v1.1.0
 ## explicit; go 1.18
 github.com/inconshreveable/mousetrap
@@ -247,12 +242,6 @@ github.com/spf13/viper/internal/encoding/json
 github.com/spf13/viper/internal/encoding/toml
 github.com/spf13/viper/internal/encoding/yaml
 github.com/spf13/viper/internal/features
-# github.com/stretchr/testify v1.12.1
-## explicit; go 1.17
-github.com/stretchr/testify/assert
-github.com/stretchr/testify/assert/yaml
-github.com/stretchr/testify/internal/difflib
-github.com/stretchr/testify/internal/spew
 # github.com/subosito/gotenv v1.6.0
 ## explicit; go 1.18
 github.com/subosito/gotenv
@@ -299,7 +288,7 @@ go.uber.org/zap/internal/exit
 go.uber.org/zap/internal/pool
 go.uber.org/zap/internal/stacktrace
 go.uber.org/zap/zapcore
-# go.yaml.in/yaml/v3 v3.0.5
+# go.yaml.in/yaml/v3 v3.0.4
 ## explicit; go 1.16
 go.yaml.in/yaml/v3
 # golang.org/x/arch v0.29.0

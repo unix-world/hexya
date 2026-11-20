@@ -4,9 +4,9 @@
 package menus
 
 import (
-	"github.com/hexya-erp/hexya/src/actions"
-	"github.com/hexya-erp/hexya/src/i18n"
-	"github.com/hexya-erp/hexya/src/tools/logging"
+	"github.com/unix-world/hexya/src/actions"
+	"github.com/unix-world/hexya/src/i18n"
+	"github.com/unix-world/hexya/src/tools/logging"
 )
 
 var log logging.Logger

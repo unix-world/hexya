@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hexya-erp/hexya/cmd"
+	"github.com/unix-world/hexya/cmd"
 )
 
 func main() {

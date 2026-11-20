@@ -24,9 +24,9 @@ import (
 	"sync"
 
 	"github.com/beevik/etree"
-	"github.com/hexya-erp/hexya/src/models/types"
-	"github.com/hexya-erp/hexya/src/tools/xmlutils"
-	"github.com/hexya-erp/hexya/src/views"
+	"github.com/unix-world/hexya/src/models/types"
+	"github.com/unix-world/hexya/src/tools/xmlutils"
+	"github.com/unix-world/hexya/src/views"
 )
 
 // An ActionType defines the type of action

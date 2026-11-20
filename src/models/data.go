@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hexya-erp/hexya/src/models/fieldtype"
-	"github.com/hexya-erp/hexya/src/models/security"
+	"github.com/unix-world/hexya/src/models/fieldtype"
+	"github.com/unix-world/hexya/src/models/security"
 )
 
 // LoadCSVDataFile loads the data of the given file into the database.

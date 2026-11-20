@@ -5,9 +5,9 @@ package views
 
 import (
 	"github.com/beevik/etree"
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/tools/logging"
-	"github.com/hexya-erp/hexya/src/tools/xmlutils"
+	"github.com/unix-world/hexya/src/models"
+	"github.com/unix-world/hexya/src/tools/logging"
+	"github.com/unix-world/hexya/src/tools/xmlutils"
 )
 
 const maxInheritanceDepth = 100

@@ -12,8 +12,8 @@ var poolQueryTemplate = template.Must(template.New("").Parse(`
 package {{ .QueryPackageName }}
 
 import (
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/pool/{{ .QueryPackageName }}/{{ .SnakeName }}"
+	"github.com/unix-world/hexya/src/models"
+	"github.com/unix-world/hexya-pool/{{ .QueryPackageName }}/{{ .SnakeName }}"
 )
 
 type {{ .Name }}Condition = {{ .SnakeName }}.Condition
@@ -33,8 +33,8 @@ var poolModelsQueryTemplate = template.Must(template.New("").Parse(`
 package {{ .SnakeName }}
 
 import (
-	"github.com/hexya-erp/hexya/src/models/operator"
-	"github.com/hexya-erp/hexya/src/models"
+	"github.com/unix-world/hexya/src/models/operator"
+	"github.com/unix-world/hexya/src/models"
 {{ range .TypesDeps }} 	"{{ . }}"
 {{ end }}
 )

@@ -4,8 +4,8 @@
 package actions
 
 import (
-	"github.com/hexya-erp/hexya/src/i18n"
-	"github.com/hexya-erp/hexya/src/tools/logging"
+	"github.com/unix-world/hexya/src/i18n"
+	"github.com/unix-world/hexya/src/tools/logging"
 )
 
 var (

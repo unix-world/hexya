@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hexya-erp/hexya/src/models/fieldtype"
-	"github.com/hexya-erp/hexya/src/models/operator"
-	"github.com/hexya-erp/hexya/src/tools/nbutils"
+	"github.com/unix-world/hexya/src/models/fieldtype"
+	"github.com/unix-world/hexya/src/models/operator"
+	"github.com/unix-world/hexya/src/tools/nbutils"
 	"github.com/lib/pq"
 )
 

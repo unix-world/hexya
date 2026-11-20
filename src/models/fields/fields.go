@@ -8,12 +8,12 @@ import (
 	"log"
 	"sort"
 
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/models/fieldtype"
-	"github.com/hexya-erp/hexya/src/models/types"
-	"github.com/hexya-erp/hexya/src/models/types/dates"
-	"github.com/hexya-erp/hexya/src/tools/nbutils"
-	"github.com/hexya-erp/hexya/src/tools/strutils"
+	"github.com/unix-world/hexya/src/models"
+	"github.com/unix-world/hexya/src/models/fieldtype"
+	"github.com/unix-world/hexya/src/models/types"
+	"github.com/unix-world/hexya/src/models/types/dates"
+	"github.com/unix-world/hexya/src/tools/nbutils"
+	"github.com/unix-world/hexya/src/tools/strutils"
 )
 
 // A FieldDefinition is a struct that declares a new field in a fields collection;
